@@ -1,0 +1,42 @@
+* {
+    background-color: maroon;
+}
+
+.std {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+.header{
+    padding: 10px;
+    background-color: salmon;
+}
+
+.unorderedList{
+    padding: 10px;
+}
+
+.unorderedList,
+.link {
+    
+    font-size: x-large;
+    color:black;
+    background-color: pink;
+}
+
+.smallTxt{
+    font-size: 20px;
+}
+.img{
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ol li {
+   font-size: x-large;
+    color:black;
+    background-color: pink; 
+}
